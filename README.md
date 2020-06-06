@@ -1,5 +1,6 @@
 # PhoenixWeapp
 A weapp which was developed by a middle school student from China for his class.
+<<<<<<< HEAD
 ##Online Version
 ![QRCode](https://github.com/pengmingkai/PhoenixWeapp/blob/master/official.png)
 ##License
