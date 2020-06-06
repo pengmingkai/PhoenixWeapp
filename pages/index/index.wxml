@@ -1,0 +1,14 @@
+<view class="container">
+	<view class="logo">
+		<block>
+			<image class="avatar" src="{{logo}}" mode="cover"></image>
+			<text class="namestyle">{{titleName}}</text>
+		</block>
+	</view>
+	<view class="column">
+		<view class="row" wx:for-items="{{funLogo}}">
+			<image bindtap="{{item.a}}" class="indexButton" src="/images/{{item.a}}.png"></image>
+			<image bindtap="{{item.b}}" class="indexButton" src="/images/{{item.b}}.png"></image>
+		</view>
+	</view>
+</view>

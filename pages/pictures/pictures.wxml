@@ -1,0 +1,14 @@
+<view class='gride'>
+  <view class='item'>
+    <view wx:for='{{grides}}' wx:key='' data-index='index' wx:if='{{(index%2)==0}}'>
+      <image src='{{item.img}}' mode='widthFix' lazy-load='true'></image>
+      <text class='title'>{{item.title}}</text>
+    </view>
+  </view>
+  <view class='item'>
+    <view wx:for='{{grides}}' wx:key='' data-index='index' wx:if='{{(index%2)==1}}'>
+      <image src='{{item.img}}' mode='widthFix' lazy-load='true'></image>
+      <text class='title'>{{item.title}}</text>
+    </view>
+  </view>
+</view>

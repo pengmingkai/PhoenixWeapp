@@ -1,0 +1,4 @@
+<!--pages/warning/warning.wxml-->
+<view class="container">
+	<text>本页面尚未开源</text>
+</view>
