@@ -2,7 +2,7 @@
 A weapp which was developed by a middle school student from China for his class.
  
 ## Online Version
-![QRCode-w50](https://github.com/pengmingkai/PhoenixWeapp/blob/master/official.jpg)
+![QRCode-w50](https://cdn.17shou.vip/2020/06/09/de1185dec4335.jpeg)
  
 ## License
 >BSD 3-Clause License
