@@ -5,7 +5,7 @@
 	},
 	"setting": {
 		"urlCheck": true,
-		"es6": true,
+		"es6": false,
 		"postcss": true,
 		"preloadBackgroundData": false,
 		"minified": true,
@@ -23,12 +23,14 @@
 			"ignore": [],
 			"disablePlugins": [],
 			"outputPath": ""
-		}
+		},
+		"useCompilerModule": false,
+		"userConfirmedUseCompilerModuleSwitch": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.4.0",
+	"libVersion": "2.7.0",
 	"appid": "wx021e4ec26973a267",
-	"projectname": "%E5%87%A4%E9%B8%A3%E7%8F%ADv2",
+	"projectname": "%E5%87%A4%E9%B8%A3%E7%8F%AD",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

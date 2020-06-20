@@ -12,7 +12,7 @@ Page({
   },
   articles: function () {
     wx.navigateTo({
-      url: '/pages/articles/articles'
+      url: '/pages/articles/index'
     })
   },
   map: function () {
