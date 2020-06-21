@@ -1,0 +1,6 @@
+.newBtn{
+  width: 90%;
+  height: 100rpx;
+  margin:5%;
+  margin-bottom: 2%;
+}

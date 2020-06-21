@@ -1,0 +1,195 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
+
+.text-small{
+  font-size: 15px;
+  text-align: center;
+  color: #888888;
+}
+
+.article-hd {
+  padding-left: 20rpx;
+  text-align: left;
+  font-size: 36px;
+}
+
+.article-wt {
+  padding-top:15px;
+  padding-bottom:15px;
+  padding-left: 40rpx;
+  text-align: left;
+  font-size: 23px;
+  color: #576b95;
+}
+
+.article-pt {
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+  width: 690rpx;
+  height: 388.125rpx;
+}
+
+.article-pt-s {
+  padding: 30rpx;
+  width: 690rpx;
+  height: 920rpx;
+}
+
+.article-pt-t {
+  padding: 30rpx;
+  width: 690rpx;
+  height: 690rpx;
+}
+
+.article-pt-l {
+  padding: 30rpx;
+  width: 690rpx;
+  height: 1580rpx;
+}
+
+.article-blue {
+  padding: 20rpx;
+  text-align: left;
+  font-size: 22px;
+  color: #576b95;
+}
+
+.article-green {
+  padding: 20rpx;
+  text-align: left;
+  font-size: 22px;
+  color: #09bb07;
+}
+
+.center-green {
+  padding: 20rpx;
+  text-align: center;
+  font-size: 22px;
+  color: #09bb07;
+}
+
+.article-red {
+  padding: 20rpx;
+  text-align: left;
+  font-size: 22px;
+  color: #e64340;
+}
+
+.center-red {
+  text-align: center;
+  font-size: 22px;
+  color: #e64340;
+}
+
+.last-red {
+  margin-left: 20rpx;
+  text-align: left;
+  font-size: 22px;
+  color: #e64340;
+}
+
+.article-black {
+  padding: 20rpx;
+  text-align: left;
+  font-size: 22px;
+  color: #353535;
+}
+
+.article-brown {
+  padding: 20rpx;
+  text-align: left;
+  font-size: 22px;
+  color: brown;
+}
+
+.center-brown {
+  padding: 20rpx;
+  text-align: center;
+  font-size: 22px;
+  color: brown;
+}
+
+.article-purple {
+  padding: 20rpx;
+  text-align: left;
+  font-size: 22px;
+  color: purple;
+}
+
+.button {
+  width: 562.5rpx;
+  padding-left: 93.75rpx;
+  font-size: 18px;
+}
+
+.audio {
+  padding-left: 75rpx;
+}
+
+.navigator-hover {
+  color: #576b95;
+}
+
+.navigator-mg {
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  margin-top: 10px;
+}
+
+.tools-mg {
+  margin-left: 60rpx;
+  margin-right: 60rpx;
+  margin-bottom: 30rpx;
+}
+
+.other-navigator-hover {
+  color: #e64340;
+}
+
+.index-hd {
+  text-align: center;
+}
+
+.index-bd {
+  padding: 0 30rpx 40rpx;
+}
+
+.index-ft {
+  padding-bottom: 20rpx;
+  text-align: center;
+}
+
+.index-desc {
+  text-align: center;
+  padding-top: 4px;
+  color: #353535;
+  font-size: 24px;
+  padding-left: 20rpx;
+}
+
+.remind{
+  display: flex;
+  justify-content: center;  
+  color: rgb(153, 153, 153);
+  font-size: 25rpx;
+  width: 90%;
+}
+.textArea{
+  background-color: #F6F6F6;
+  margin: 20rpx;
+  border-radius: 16rpx;
+  box-sizing: content-box;
+  padding: 20rpx;
+  position: relative;
+}
+.submitBtnView{
+  margin: 20rpx;
+}

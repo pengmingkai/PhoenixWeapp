@@ -1,7 +1,0 @@
-<view class="container">
-	<view class="logo">
-		<block>
-			<image class="avatar" src="/images/{{id}}.jpeg" bindtap="previewImage" mode="cover" show-menu-by-longpress="1" />
-		</block>
-	</view>
-</view>
